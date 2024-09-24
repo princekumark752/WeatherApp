@@ -33,6 +33,11 @@ This is a React Native weather forecasting mobile application that integrates wi
 - Location-based weather information
 - User-friendly interface
 
+### Additional Tips
+
+- You can adjust the **Test Cases Overview** section to highlight any other tests you implement in the future.
+- Ensure that all code snippets are formatted correctly, and feel free to add more examples as your testing suite expands.
+
 ## Getting Started
 
 ### Prerequisites
