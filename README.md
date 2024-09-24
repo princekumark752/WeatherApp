@@ -23,6 +23,31 @@ WeatherApp/ ├── __MACOSX/ # Auto-generated folder for Mac, can be ignored 
 
 ---
 
+# React Native Weather Forecasting Application
+
+This is a React Native weather forecasting mobile application that integrates with a weather API using TypeScript and Redux for state management.
+
+## Features
+
+- Real-time weather data fetching
+- Location-based weather information
+- User-friendly interface
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- React Native CLI
+- Yarn or npm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/princekumark752/weather-app.git
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
